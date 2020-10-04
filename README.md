@@ -1,1 +1,2 @@
-# Sistema-Com-rcio
+# Sistema-Comércio
+# Desenvolvimento do CRUD em C#.
